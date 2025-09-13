@@ -1,0 +1,25 @@
+# prod
+dist/
+
+# dev
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf
+
+# cdk
+cdk.out/
+cdk.context.json
+
+# deps
+node_modules/
+
+# env
+.env
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# misc
+.DS_Store
